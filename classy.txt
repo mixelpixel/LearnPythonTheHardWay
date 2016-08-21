@@ -1,0 +1,7 @@
+class MyClass:
+	'''MyClass docstring: a simple example'''
+	i = 12345
+	
+	def f(self):
+		'''f stuff up!'''
+		return 'hello there, world :)'''
